@@ -71,13 +71,17 @@ Uma plataforma integrada composta por:
 
 As interfaces foram projetadas seguindo princípios de acessibilidade, contraste adequado para o ambiente de saúde pública e clareza nas ações:
 
+<p align="center">
+  <img src="Protótipo de Alta Fidelidade - UBS/Identidade Visual.png" width="38%" alt="Identidade Visual UBS" />
+</p>
+
 | Amostra | Código Hex | Nome / Função | Descrição e Aplicação |
 | :---: | :---: | :--- | :--- |
-| ![#004F9F](https://via.placeholder.com/18/004F9F/000000?text=+) | `#004F9F` | **Azul Principal** | Cabeçalho, destaque da posição do usuário e barra inferior de navegação. |
-| ![#181E2B](https://via.placeholder.com/18/181E2B/000000?text=+) | `#181E2B` | **Azul Escuro / Grafite** | Tipografia principal, títulos e elementos de alto contraste textual. |
-| ![#FA5056](https://via.placeholder.com/18/FA5056/000000?text=+) | `#FA5056` | **Vermelho / Coral** | Ações destrutivas, alertas e botão de desistência da fila. |
-| ![#F2F6FC](https://via.placeholder.com/18/F2F6FC/000000?text=+) | `#F2F6FC` | **Azul Muito Claro** | Plano de fundo das páginas para conforto visual. |
-| ![#FFF1F2](https://via.placeholder.com/18/FFF1F2/000000?text=+) | `#FFF1F2` | **Rosa Claro** | Preenchimento secundário do botão e modais de cancelamento. |
+| ![#004F9F](docs/cores/004F9F.png) | `#004F9F` | **Azul Principal** | Cabeçalho, destaque da posição do usuário e barra inferior de navegação. |
+| ![#181E2B](docs/cores/181E2B.png) | `#181E2B` | **Azul Escuro / Grafite** | Tipografia principal, títulos e elementos de alto contraste textual. |
+| ![#FA5056](docs/cores/FA5056.png) | `#FA5056` | **Vermelho / Coral** | Ações destrutivas, alertas e botão de desistência da fila. |
+| ![#F2F6FC](docs/cores/F2F6FC.png) | `#F2F6FC` | **Azul Muito Claro** | Plano de fundo das páginas para conforto visual. |
+| ![#FFF1F2](docs/cores/FFF1F2.png) | `#FFF1F2` | **Rosa Claro** | Preenchimento secundário do botão e modais de cancelamento. |
 
 ---
 
